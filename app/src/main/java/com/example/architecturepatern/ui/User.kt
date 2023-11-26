@@ -1,1 +1,4 @@
-data class User ()
+data class User (
+    val name : String ,
+    val age : Int
+)
